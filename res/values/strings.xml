@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">getHeadline</string>
+    <string name="feedsTitle">Bitcoin Headlines</string>
+    <string name="refreshBtn">Refresh!</string>
+    <string name="newTitle">Title:</string>
+    <string name="newsLink">Link:</string>
+    <string name="pubDate">Publish Date：</string>
+    <string name="lastUpdate">Latest Update Time:</string>
+    
+
+</resources>
